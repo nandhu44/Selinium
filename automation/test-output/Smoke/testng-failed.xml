@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Failed suite [Smoke]" parallel="methods">
+  <test name="Smoke Testing(failed)" parallel="methods">
+    <classes>
+      <class name="com.nike.automation.test.Smoketest">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="AfterMethod"/>
+          <include name="test03"/>
+          <include name="test02"/>
+          <include name="test01"/>
+        </methods>
+      </class> <!-- com.nike.automation.test.Smoketest -->
+    </classes>
+  </test> <!-- Smoke Testing(failed) -->
+</suite> <!-- Failed suite [Smoke] -->

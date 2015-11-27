@@ -1,0 +1,9 @@
+com\nike\automation\Validate.class
+com\nike\automation\guestcheckout.class
+com\nike\automation\Addtocart.class
+com\nike\automation\Login.class
+com\nike\automation\test\Smoketest.class
+com\nike\automation\Billing.class
+com\nike\automation\cartcheckout.class
+com\nike\automation\test\Testng.class
+com\nike\automation\Shipping.class

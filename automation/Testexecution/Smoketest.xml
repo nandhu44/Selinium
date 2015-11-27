@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Smoke" parallel="methods" thread-count="1">
+	<test name="Smoke Testing">
+		<classes>
+			<class name="com.nike.automation.test.Smoketest">
+			</class>
+			<!-- <class name="com.nike.automation.test.Regressiontest" /> -->
+		</classes>
+	</test>
+</suite>
