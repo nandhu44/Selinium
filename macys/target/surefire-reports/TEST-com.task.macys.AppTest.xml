@@ -9,12 +9,14 @@
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="JENKINS_HOME" value="C:\Program Files (x86)\Jenkins"/>
     <property name="HUDSON_SERVER_COOKIE" value="987b00591526bb13"/>
+    <property name="POM_ARTIFACTID" value="macys"/>
     <property name="os.name" value="Windows 7"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_65\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_65\jre\classes"/>
-    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
     <property name="sun.desktop" value="windows"/>
     <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="automation"/>
     <property name="NODE_LABELS" value="master"/>
     <property name="TEMP" value="C:\windows\TEMP"/>
     <property name="java.runtime.version" value="1.8.0_65-b17"/>
@@ -23,8 +25,9 @@
     <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
     <property name="ProgramFiles" value="C:\Program Files (x86)"/>
     <property name="user.language" value="en"/>
-    <property name="BUILD_DISPLAY_NAME" value="#1"/>
+    <property name="BUILD_DISPLAY_NAME" value="#4"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_65\jre\bin"/>
+    <property name="GIT_PREVIOUS_SUCCESSFUL_COMMIT" value="fb23ca9bd06a6892722fef0a7b17233395ddbb73"/>
     <property name="VS110COMNTOOLS" value="C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\"/>
     <property name="LOCALAPPDATA" value="C:\windows\system32\config\systemprofile\AppData\Local"/>
     <property name="java.version" value="1.8.0_65"/>
@@ -35,7 +38,7 @@
     <property name="NODE_NAME" value="master"/>
     <property name="PROCESSOR_ARCHITEW6432" value="AMD64"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_65\jre\lib\endorsed"/>
-    <property name="BUILD_ID" value="1"/>
+    <property name="BUILD_ID" value="4"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="file.encoding.pkg" value="sun.io"/>
@@ -49,11 +52,13 @@
     <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_65\jre"/>
     <property name="java.vm.info" value="mixed mode"/>
     <property name="os.version" value="6.1"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
     <property name="configsetroot" value="C:\windows\ConfigSetRoot"/>
     <property name="TMP" value="C:\windows\TEMP"/>
     <property name="path.separator" value=";"/>
     <property name="java.vm.version" value="25.65-b01"/>
     <property name="user.variant" value=""/>
+    <property name="GIT_PREVIOUS_COMMIT" value="fb23ca9bd06a6892722fef0a7b17233395ddbb73"/>
     <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="FP_NO_HOST_CHECK" value="NO"/>
@@ -62,13 +67,15 @@
     <property name="CommonProgramFiles" value="C:\Program Files (x86)\Common Files"/>
     <property name="ComSpec" value="C:\windows\system32\cmd.exe"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="POM_PACKAGING" value="jar"/>
     <property name="SERVICE_ID" value="jenkins"/>
     <property name="COMPUTERNAME" value="NANDHINI-PC"/>
     <property name="user.script" value=""/>
     <property name="asl.log" value="Destination=file"/>
-    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="POM_GROUPID" value="com.task"/>
     <property name="user.home" value="C:\windows\system32\config\systemprofile"/>
-    <property name="BUILD_TAG" value="jenkins-macys-1"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="BUILD_TAG" value="jenkins-macys-4"/>
     <property name="JENKINS_SERVER_COOKIE" value="987b00591526bb13"/>
     <property name="HUDSON_URL" value="http://localhost:8080/"/>
     <property name="ProgramData" value="C:\ProgramData"/>
@@ -83,7 +90,7 @@
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="maven.home" value="C:\Program Files (x86)\Jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven3"/>
     <property name="java.class.path" value="C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven32-agent-1.7.jar;C:\Program Files (x86)\Jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven3\boot\plexus-classworlds-2.5.2.jar;C:\Program Files (x86)\Jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven3/conf/logging"/>
-    <property name="sun.java.command" value="jenkins.maven3.agent.Maven32Main C:\Program Files (x86)\Jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven3 C:\Program Files (x86)\Jenkins\war\WEB-INF\lib\remoting-2.53.2.jar C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven32-interceptor-1.7.jar C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.7.jar 58098"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven32Main C:\Program Files (x86)\Jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven3 C:\Program Files (x86)\Jenkins\war\WEB-INF\lib\remoting-2.53.2.jar C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven32-interceptor-1.7.jar C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.7.jar 23442"/>
     <property name="Path" value="C:\Program Files\Java\jdk1.8.0_65/bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\nodejs\;"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="PROCESSOR_ARCHITECTURE" value="x86"/>
@@ -98,7 +105,7 @@
     <property name="HUDSON_HOME" value="C:\Program Files (x86)\Jenkins"/>
     <property name="PATH+MAVEN" value="C:\Program Files (x86)\Jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven3/bin"/>
     <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
-    <property name="BUILD_URL" value="http://localhost:8080/job/macys/1/"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/macys/4/"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="LenovoTestPath" value="C:\prdv10\"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
@@ -106,21 +113,21 @@
     <property name="SystemRoot" value="C:\windows"/>
     <property name="windows_tracing_flags" value="3"/>
     <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_65\jre\lib\ext;C:\windows\Sun\Java\lib\ext"/>
-    <property name="user.dir" value="C:\selinium\eclipse\eclipse\macys"/>
+    <property name="user.dir" value="C:\selinium\gitworkspace\Selinium\macys"/>
     <property name="JOB_URL" value="http://localhost:8080/job/macys/"/>
     <property name="USERDOMAIN" value="WORKGROUP"/>
     <property name="line.separator" value="
 "/>
     <property name="MAVEN_HOME" value="C:\Program Files (x86)\Jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven3"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
-    <property name="BUILD_NUMBER" value="1"/>
+    <property name="BUILD_NUMBER" value="4"/>
     <property name="BASE" value="C:\Program Files (x86)\Jenkins"/>
     <property name="JENKINS_URL" value="http://localhost:8080/"/>
     <property name="PROCESSOR_REVISION" value="2a07"/>
     <property name="GIT_BRANCH" value="origin/master"/>
     <property name="ProgramW6432" value="C:\Program Files"/>
     <property name="windir" value="C:\windows"/>
-    <property name="GIT_COMMIT" value="03666b4f4a3b6f16953ae4c5f165eeb3e1a7a2a9"/>
+    <property name="GIT_COMMIT" value="fb23ca9bd06a6892722fef0a7b17233395ddbb73"/>
     <property name="file.encoding" value="Cp1252"/>
     <property name="SystemDrive" value="C:"/>
     <property name="maven3.interceptor" value="C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven32-interceptor-1.7.jar"/>
