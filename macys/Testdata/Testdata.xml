@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+<countryname id="USA">
+
+<url>http://www1.macys.com/ </url>
+<home>HOME</home>
+<BB>BED &amp; BATH</BB>
+<women>WOMEN</women>
+<men>MEN</men>
+<juniors>JUNIORS</juniors>
+<kids>KIDS</kids>
+<active>ACTIVE</active>
+<beauty>BEAUTY</beauty>
+<shoes>SHOES</shoes>
+<handbags>HANDBAGS</handbags>
+<jew>JEWELRY</jew>
+<watches>WATCHES</watches>
+<brands>BRANDS</brands>
+<itemname>Lacoste V-Neck Woven-Trim Sweater </itemname>
+<color>PhilippinesBlue/Navy Blue</color>
+<size>L</size>
+<addtolist>ADD TO LIST</addtolist>
+<addtocart>ADD TO BAG</addtocart>
+<firstname>manik</firstname>
+<lastname>malhotra</lastname>
+<address>922 deacon circle</address>
+<city>columbus</city>
+<state>Ohio</state>
+<zipcode>43214</zipcode>
+<phonenum>3048046484</phonenum>
+<message1>Happy birthday</message1>
+<message2>Have a most</message2>
+<message3>wonderful day</message3>
+<cardtype>Visa</cardtype>
+<cardnum>4111111111111111</cardnum>
+<expmonth>05</expmonth>
+<expyear>2018</expyear>
+<cvvno>111</cvvno>
+<email>manik.malhotra@gmail.com</email>
+<webid>2436759</webid>
+<itemcost>Sale $74.99</itemcost>
+<subcost>$74.99</subcost>
+<shipcost>$ 9.95</shipcost>
+<taxamount>$4.50</taxamount>
+<totcost>$89.44</totcost>
+<ufirst>manu</ufirst>
+<ulast>manav</ulast>
+<upadd>8 stephenville pkwy</upadd>
+<upcity>edison</upcity>
+<upstate>NJ</upstate>
+<upzip>08820</upzip>
+<uphone>4046677767</uphone>
+</countryname>
+</country>

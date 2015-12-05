@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Access macys Website]]>
+    </line>
+    <line>
+      <![CDATA[item validation]]>
+    </line>
+    <line>
+      <![CDATA[color validation]]>
+    </line>
+    <line>
+      <![CDATA[size validation]]>
+    </line>
+    <line>
+      <![CDATA[addtolist validation]]>
+    </line>
+    <line>
+      <![CDATA[addtocart validation]]>
+    </line>
+    <line>
+      <![CDATA[checkout button validation]]>
+    </line>
+    <line>
+      <![CDATA[checkout button validation]]>
+    </line>
+    <line>
+      <![CDATA[guestcheckout button validation]]>
+    </line>
+    <line>
+      <![CDATA[first name validation]]>
+    </line>
+    <line>
+      <![CDATA[last name  validation]]>
+    </line>
+    <line>
+      <![CDATA[addhome validation]]>
+    </line>
+    <line>
+      <![CDATA[city validation]]>
+    </line>
+    <line>
+      <![CDATA[state validation]]>
+    </line>
+    <line>
+      <![CDATA[state validation]]>
+    </line>
+    <line>
+      <![CDATA[ship form validation]]>
+    </line>
+    <line>
+      <![CDATA[continue button validation]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="182933" started-at="2015-12-05T10:51:32Z" finished-at="2015-12-05T10:54:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="182933" started-at="2015-12-05T10:51:32Z" finished-at="2015-12-05T10:54:35Z">
+      <class name="macys.Smoketest">
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:macys.Smoketest@76707e36]" name="BeforeMethod" is-config="true" duration-ms="64948" started-at="2015-12-05T05:51:32Z" finished-at="2015-12-05T05:52:37Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Access macys Website]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="test06()[pri:0, instance:macys.Smoketest@76707e36]" name="test06" duration-ms="117956" started-at="2015-12-05T05:52:37Z" finished-at="2015-12-05T05:54:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[item validation]]>
+            </line>
+            <line>
+              <![CDATA[color validation]]>
+            </line>
+            <line>
+              <![CDATA[size validation]]>
+            </line>
+            <line>
+              <![CDATA[addtolist validation]]>
+            </line>
+            <line>
+              <![CDATA[addtocart validation]]>
+            </line>
+            <line>
+              <![CDATA[checkout button validation]]>
+            </line>
+            <line>
+              <![CDATA[checkout button validation]]>
+            </line>
+            <line>
+              <![CDATA[guestcheckout button validation]]>
+            </line>
+            <line>
+              <![CDATA[first name validation]]>
+            </line>
+            <line>
+              <![CDATA[last name  validation]]>
+            </line>
+            <line>
+              <![CDATA[addhome validation]]>
+            </line>
+            <line>
+              <![CDATA[city validation]]>
+            </line>
+            <line>
+              <![CDATA[state validation]]>
+            </line>
+            <line>
+              <![CDATA[state validation]]>
+            </line>
+            <line>
+              <![CDATA[ship form validation]]>
+            </line>
+            <line>
+              <![CDATA[continue button validation]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test06 -->
+      </class> <!-- macys.Smoketest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
